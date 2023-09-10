@@ -4,6 +4,8 @@ permalink: LINKS/
 
 # LINKS
 
+## WEEK 1
+
 1. [A list of commonly used Git commands](https://github.com/joshnh/Git-Commands)<br>
 This repository offers a convenient reference for developers, providing a curated compilation of commonly used Git commands. It serves as a valuable resource for streamlining version control tasks, fostering collaboration, and optimizing software project management with Git.
 
