@@ -18,3 +18,5 @@ A tutorial provides a comprehensive guide to learning and mastering Bash scripti
 
 5. [(VIDEO) Bash Scripting for Beginners] (https://www.youtube.com/watch?v=tK9Oc6AEnR4)<br>
 A step-by-step guide for newcomers to learn the fundamentals of Bash scripting, making it accessible and engaging. It's appealing because it empowers beginners to automate tasks and efficiently manage Unix-like systems, building a strong foundation in scripting
+<br>
+<hr>
