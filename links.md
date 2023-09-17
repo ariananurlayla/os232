@@ -22,3 +22,13 @@ A tutorial provides a comprehensive guide to learning and mastering Bash scripti
 A step-by-step guide for newcomers to learn the fundamentals of Bash scripting, making it accessible and engaging. It's appealing because it empowers beginners to automate tasks and efficiently manage Unix-like systems, building a strong foundation in scripting.
 <br>
 <hr>
+
+## WEEK 2
+
+1. [Cyber Security Introduction (Cyber Security Part 1)](https://youtu.be/rcDO8km6R6c?si=gTfja7uJk1otT_jP)<br>
+This video introduces the basics of cybersecurity, emphasizes its significance, and delves into its role in the technology sector. It offers a concise overview of cybersecurity fundamentals, making it suitable for those in the process of learning about this field.
+
+2. [How SSH key Works ?](https://youtu.be/y2SWzw9D4RA?si=-Byb8Y9Rp9c9_tVy)<br>
+The video explores the concept of SSH key pairs, explaining their significance and how they function in authentication processes. It delves into the necessity of SSH keys and their role in enhancing security during authentication via SSH key pairs.
+<br>
+<hr>
