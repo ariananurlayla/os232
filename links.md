@@ -4,7 +4,6 @@ permalink: LINKS/
 
 # LINKS
 <br>
-<hr>
 
 ## WEEK 1
 
