@@ -3,8 +3,7 @@ permalink: LINKS/
 ---
 
 # LINKS
-<br>
-
+<hr>
 ## WEEK 1
 
 1. [A list of commonly used Git commands](https://github.com/joshnh/Git-Commands)<br>
