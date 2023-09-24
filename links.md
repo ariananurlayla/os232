@@ -32,3 +32,15 @@ This video introduces the basics of cybersecurity, emphasizes its significance, 
 The video explores the concept of SSH key pairs, explaining their significance and how they function in authentication processes. It delves into the necessity of SSH keys and their role in enhancing security during authentication via SSH key pairs.
 <br>
 <hr>
+
+## WEEK 3
+
+1. [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw)<br>
+Video ini membantu memahami tata letak direktori Linux, perbedaannya dengan sistem Windows, dan pentingnya struktur direktori dalam pengoperasian sistem Linux. Video ini dapat membantu pengguna agar dapat lebih baik dalam mengelola file, aplikasi, dan pengaturan pada sistem Linux mereka.
+
+2. [Linux Crash Course - The /etc/fstab file](https://youtu.be/A7xH74o6kY0)<br>
+The video discusses how to set up automatic storage volume mounting in Linux systems using the fstab file and why it's important to identify devices by UUID rather than device names. This is crucial because automating storage volume mounting allows users to run applications or server services more efficiently and reliably. Using UUIDs also ensures consistent mounting even if physical device names change, enhancing system stability.
+
+3. [mounting and unmounting disks/partitions - Linux Command Line tutorial for forensics - 15](https://youtu.be/F-a_BBAGfkE)<br>
+The main content of the video is a guide on using Linux commands to install and manage disk partitions and access data on Linux systems. Understanding these commands is essential for effective storage management and data access in various Linux distributions, including forensic ones.
+<br><hr>
