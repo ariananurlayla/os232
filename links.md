@@ -43,4 +43,5 @@ The video discusses how to set up automatic storage volume mounting in Linux sys
 
 3. [mounting and unmounting disks/partitions - Linux Command Line tutorial for forensics - 15](https://youtu.be/F-a_BBAGfkE)<br>
 The main content of the video is a guide on using Linux commands to install and manage disk partitions and access data on Linux systems. Understanding these commands is essential for effective storage management and data access in various Linux distributions, including forensic ones.
-<br><hr>
+<br>
+<hr>
