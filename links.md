@@ -4,6 +4,7 @@ permalink: LINKS/
 
 # LINKS
 <hr>
+
 ## WEEK 1
 
 1. [A list of commonly used Git commands](https://github.com/joshnh/Git-Commands)<br>
@@ -45,3 +46,20 @@ The video discusses how to set up automatic storage volume mounting in Linux sys
 The main content of the video is a guide on using Linux commands to install and manage disk partitions and access data on Linux systems. Understanding these commands is essential for effective storage management and data access in various Linux distributions, including forensic ones.
 <br>
 <hr>
+<<<<<<< HEAD
+=======
+
+## WEEK 4
+
+1. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+Video ini menjelaskan cara kerja komputer dalam membaca dan menginterpretasikan berkas komputer.
+
+2. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Artikel ini menjelaskan apa itu konsep virtual memory secara umum dan implementasinya pada sistem komputer. Virtual memory adalah skema alokasi penyimpanan di mana memori sekunder dapat diakses layaknya bagian dari memory utama.
+
+3. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+Artikel ini memuat topik memory management dalam sistem operasi komputer. Manajemen diperlukan untuk mencapai penggunaan memori yang efisien.
+
+<br>
+<hr>
+>>>>>>> 33e3084 (WEEK04 done)
