@@ -46,8 +46,6 @@ The video discusses how to set up automatic storage volume mounting in Linux sys
 The main content of the video is a guide on using Linux commands to install and manage disk partitions and access data on Linux systems. Understanding these commands is essential for effective storage management and data access in various Linux distributions, including forensic ones.
 <br>
 <hr>
-<<<<<<< HEAD
-=======
 
 ## WEEK 4
 
@@ -62,4 +60,3 @@ Artikel ini memuat topik memory management dalam sistem operasi komputer. Manaje
 
 <br>
 <hr>
->>>>>>> 33e3084 (WEEK04 done)
