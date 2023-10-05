@@ -50,3 +50,13 @@ ZCZC W03 60 L05 studying
 ZCZC W03 90 L09 Weekly Assignments
 ZCZC W03 120 L03 GitHub related
 ZCZC W03 60 L09 Weekly Assignments
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 60 L05 studying
+ZCZC W04 10 L01 SCELE/Discord related
+ZCZC W04 60 L05 studying
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 120 L03 GitHub related
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 30 L09 Weekly Assignments
+ZCZC W04 20 L03 GitHub related
