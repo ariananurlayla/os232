@@ -57,6 +57,21 @@ Artikel ini menjelaskan apa itu konsep virtual memory secara umum dan implementa
 
 3. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
 Artikel ini memuat topik memory management dalam sistem operasi komputer. Manajemen diperlukan untuk mencapai penggunaan memori yang efisien.
+<br>
+<hr>
 
+
+## WEEK 5
+
+1. [Paging](https://youtu.be/pJ5ezHfJokw?si=xN3gJCGsQ8DTITsy)<br>
+This video explains the concept of paging in memory management, where physical memory is divided into pages and virtual addresses are mapped to these pages. It emphasizes the use of a Page Table data structure to translate virtual page numbers to physical page numbers for efficient memory allocation and management.
+
+
+2. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s?si=PXQgmQcRZxrPIBlp)<br>
+This video provides an overview of memory management systems, focusing on segmented and paged approaches. It explains how segmented systems use differently sized segments, leading to fragmented free space and limited access for large processes, while paged systems employ equal-sized pages to mitigate these issues. This video also covers concepts like logical and physical memory, and discusses the utilization of secondary storage for virtual memory.
+
+
+3. [Pointers and dynamic memory - stack vs heap](https://youtu.be/_8-ht2AKyH4?si=hbE1eUqzaVjhUTIw)<br>
+The video explores dynamic memory allocation in C or C++, detailing how memory is managed for applications. It covers essential concepts of stack and heap memory management in the context of programming.
 <br>
 <hr>
