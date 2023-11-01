@@ -75,3 +75,19 @@ This video provides an overview of memory management systems, focusing on segmen
 The video explores dynamic memory allocation in C or C++, detailing how memory is managed for applications. It covers essential concepts of stack and heap memory management in the context of programming.
 <br>
 <hr>
+
+## WEEK 6
+
+1. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+The article discusses the concept of concurrency in operating systems, where multiple instruction sequences execute simultaneously through processes and threads. Concurrency involves sharing resources, leading to challenges like deadlocks and resource starvation. The article explores motivations for concurrent execution, types of processes (independent and cooperating), operations on processes, principles of concurrency, problems, advantages, drawbacks, and issues associated with concurrency.
+
+2. [Makefile Tutorial](https://makefiletutorial.com/)<br>
+This article explains what Makefile is and how to create and utilize it. It provides detailed explanations along with examples.
+
+3. [Process vs Threads in Linux](https://linuxhint.com/process-vs-thread-linux/)<br>
+This article provides an explanation of processes and threads in Linux, aimed at both programmers and non-programmers. It explores the concepts of processes and threads, detailing their differences, and emphasizes how Linux manages these elements to improve application performance.
+
+4. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+The article explains the usage of the fork() system call in C language. It describes how fork() creates a new process, the differences between parent and child processes, and provides examples demonstrating the creation of multiple processes and their simultaneous execution.
+<br>
+<hr>
