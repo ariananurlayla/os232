@@ -81,3 +81,5 @@ ZCZC W06 120 L09 Weekly Assignments
 ZCZC W06 30 L05 studying
 ZCZC W06 5 L01 SCELE/Discord related
 ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 90 L09 Weekly Assignments
+ZCZC W06 90 L03 GitHub related
