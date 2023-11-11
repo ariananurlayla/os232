@@ -88,3 +88,16 @@ ZCZC W06 10 L05 QUIZ
 ZCZC W06 25 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 30 L09 Weekly Assignments
 ZCZC W06 10 L03 GitHub related
+ZCZC W07 5 L01 SCELE/Discord related
+ZCZC W07 20 L05 studying
+ZCZC W07 10 L05 studying
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 10 L09 Weekly Assignments
+ZCZC W07 60 L05 studying
+ZCZC W07 10 L05 QUIZ
+ZCZC W07 30 L09 Weekly Assignments
+ZCZC W07 20 L05 studying
+ZCZC W07 240 L09 Weekly Assignments
+ZCZC W07 30 L05 studying
+ZCZC W07 30 L01 SCELE/Discord related
+ZCZC W07 30 L03 GitHub related

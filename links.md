@@ -91,3 +91,19 @@ This article provides an explanation of processes and threads in Linux, aimed at
 The article explains the usage of the fork() system call in C language. It describes how fork() creates a new process, the differences between parent and child processes, and provides examples demonstrating the creation of multiple processes and their simultaneous execution.
 <br>
 <hr>
+
+## WEEK 7
+
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+This article provides an overview of process synchronization in operating systems, explaining its importance and mechanisms. It explores solutions like Peterson's algorithm, synchronization hardware, mutex locks, and semaphores to address critical section problems, offering a concise understanding of these key concepts.
+
+2. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+This article offers a brief introduction that familiarizes readers with the topic of synchronization in operating systems, providing a foundational overview of the concept and its relevance. It serves as a starting point for readers to delve into the intricacies of synchronization mechanisms within operating systems.
+
+3. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+A semaphore is a method for overseeing concurrent processes through the utilization of a basic integer value. Its application extends to addressing critical section issues within the synchronization process, with the linked content also detailing potential challenges that may emerge during semaphore implementation.
+
+4. [Deadlock in Operating System | GeeksforGeeks](https://www.youtube.com/watch?v=onkWXaXAgbY)<br>
+The video offers insights into deadlocks and strategies for their resolution, drawing a parallel between deadlocks and two trains approaching each other on the same track. It illustrates the deadlock scenario by likening it to the situation where two trains, facing each other on the same track, are unable to proceed.
+<br>
+<hr>
