@@ -107,3 +107,22 @@ A semaphore is a method for overseeing concurrent processes through the utilizat
 The video offers insights into deadlocks and strategies for their resolution, drawing a parallel between deadlocks and two trains approaching each other on the same track. It illustrates the deadlock scenario by likening it to the situation where two trains, facing each other on the same track, are unable to proceed.
 <br>
 <hr>
+
+## WEEK 8
+
+1. [Linux From Scratch Version 12.0 (Published September 1st, 2023)](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
+The link serves as a comprehensive tutorial providing a step-by-step guide for creating a custom Linux system from scratch, and it serves as the primary reference for the assignment guide in the Operating System Course.
+
+2. [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)<br>
+This playlist features a series of step-by-step videos demonstrating the process of building Linux From Scratch 12.0, offering clear and easily understandable explanations. The comprehensive tutorials make the complex task accessible and straightforward for viewers.
+
+3. [Create Your Very Own Operating System With Linux From Scratch](https://www.makeuseof.com/tag/create-operating-system-linux-scratch-linux-si/)<br>
+Linux From Scratch is a project dedicated to crafting a personalized operating system tailored to individual requirements. It involves assembling source code documentation on a computer or virtual machine to construct a customized Linux operating system, distinct from creating a system distribution.
+
+4. [What is cross compilation ?](https://www.linkedin.com/pulse/what-cross-compilation-loutfi-belaaribi/)<br>
+This article provides a simplified explanation of cross-compilation, presenting the concept in a clear and concise manner. The inclusion of visual aids, in the form of memes, serves to augment comprehension for the audience.
+
+5. [Linux from Scratch First Impressions: Waste Of Time?](https://www.youtube.com/watch?v=1eOdaXS-wVE)<br>
+Creating a Linux system from scratch can take a lot of time, and it depends on the power of your computer. The big question is, is it worth spending all that time on it? Deciding if the results are worth the time is an important thing to think about when you're working on Linux From Scratch, especially because it can be time-consuming depending on your computer's capabilities.
+<br>
+<hr>
