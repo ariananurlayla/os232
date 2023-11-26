@@ -126,3 +126,19 @@ This article provides a simplified explanation of cross-compilation, presenting 
 Creating a Linux system from scratch can take a lot of time, and it depends on the power of your computer. The big question is, is it worth spending all that time on it? Deciding if the results are worth the time is an important thing to think about when you're working on Linux From Scratch, especially because it can be time-consuming depending on your computer's capabilities.
 <br>
 <hr>
+
+## WEEK 9
+
+1. [Linux From Scratch - Version 12.0 - Chapter 6](https://www.linuxfromscratch.org/lfs/view/12.0/chapter06/chapter06.html)<br>
+In Chapter 6 of Linux From Scratch Version 12.0, you will delve into the process of building essential temporary tools for the LFS system, laying the foundation for subsequent chapters in creating a custom Linux distribution from source code.
+
+2. [(Tutorial) Chapter 6: Cross-Compiling Temporary Tools - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/D_N1kQPsQEk?si=eR4RpjL4ems2LSK4)<br>
+This tutorial video guides you through Chapter 6 of Linux From Scratch Version 12.0, demonstrating the steps involved in cross-compiling temporary tools, a crucial aspect of constructing an LFS system, providing a practical resource for those following the LFS guide.
+
+3. [Linux From Scratch - Version 12.0 - Chapter 7](https://www.linuxfromscratch.org/lfs/view/12.0/chapter07/chapter07.html)<br>
+In Chapter 7 of Linux From Scratch Version 12.0, the focus shifts to entering the chroot environment and building additional temporary tools, bringing you closer to a fully functional custom Linux system created entirely from source code.
+
+4. [(Tutorial)Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://youtu.be/D_N1kQPsQEk?si=g1GqZ_wGy7pYQYJG)<br>
+This tutorial video walks you through the steps outlined in Chapter 7 of Linux From Scratch Version 12.0, demonstrating the process of entering the chroot environment and building additional temporary tools, essential for advancing in the LFS system construction.
+<br>
+<hr>
