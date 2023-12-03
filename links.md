@@ -142,3 +142,28 @@ In Chapter 7 of Linux From Scratch Version 12.0, the focus shifts to entering th
 This tutorial video walks you through the steps outlined in Chapter 7 of Linux From Scratch Version 12.0, demonstrating the process of entering the chroot environment and building additional temporary tools, essential for advancing in the LFS system construction.
 <br>
 <hr>
+
+## WEEK 10
+
+1. [Linux From Scratch - Version 12.0 - Chapter 8](https://www.linuxfromscratch.org/lfs/view/12.0/chapter08/chapter08.html)<br>
+In Chapter 8 of Linux From Scratch Version 12.0, you will embark on the installation of fundamental software for the LFS system. This includes the steps to install critical components such as GNU Core Utilities, shell, and other essential software.
+
+2. [(Tutorial) Chapter 8: 8.1 to 8.5 Installing Basic System Software - How to build Linux From Scratch (LFS) 1](https://youtu.be/WXAV29qd6VI?si=gMLlGBNdTSqXr95C)<br>
+This tutorial video guides you through the steps outlined in Chapter 8 of Linux From Scratch Version 12.0, specifically covering the installation of basic software from steps 8.1 to 8.5. The tutorial provides practical guidance for building your own LFS system.
+
+3. [(Tutorial) Chapter 8: 8.6 to 8.26 Installing Basic System Software - How to build Linux From Scratch (LFS)](https://youtu.be/KWy-R4nX-6U?si=Q6Asz7CuyZKJjfmd)<br>
+In this tutorial video, the steps from Chapter 8 of Linux From Scratch Version 12.0 for installing basic software (8.6 to 8.26) are explained in detail. This includes the installation of packages such as zlib, bzip2, and many more.
+
+4. [(Tutorial) Chapter 8: 8.27 (GCC) Installing Basic System Software - How to build Linux From Scratch (LFS)](https://youtu.be/xiolHZb2kZo?si=QbBDSHxo4GIY3bZo)<br>
+This video tutorial focuses on step 8.27, the installation of GCC (GNU Compiler Collection) as part of the basic software installation in Chapter 8 of Linux From Scratch Version 12.0.
+
+5. [(Tutorial) Chapter 8: 8.28 to 8.46 Installing Basic System Software - How to build Linux From Scratch (LFS)](https://youtu.be/Nq_m5_a7KdI?si=fA7hA4-OsBQdJDem)<br>
+This chapter covers the steps for installing additional basic software from 8.28 to 8.46, including libraries like ncurses, sed, grep, and many more. The tutorial video provides practical guidance for each installation step.
+
+6. [(Tutorial) Chapter 8: 8.47 to 8.80 Installing Basic System Software - How to build Linux From Scratch (LFS)](https://youtu.be/X2d6w2Fj7Og?si=yPGapv1FxWdM3DZj)<br>
+This tutorial covers the steps for installing basic software from 8.47 to 8.80 in Chapter 8 of LFS Version 12.0. This includes the installation of packages such as Glibc, pkg-config, and many more.
+
+7. [(Tutorial) Chapter 8: 8.81 to 8.83 Installing Basic System Software - How to build Linux From Scratch (LFS)](https://youtu.be/nqpSImVXt3A?si=GdRVc2kB_JYd0qt7)<br>
+In this tutorial video, the steps for installing basic software from 8.81 to 8.83 are explained. This includes the installation of packages such as util-linux and man-pages. The tutorial supports practical guidance for building your LFS system.
+<br>
+<hr>

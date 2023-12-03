@@ -129,3 +129,18 @@ ZCZC W09 20 L05 studying
 ZCZC W09 10 L01 SCELE/Discord related
 ZCZC W09 20 L09 Weekly Assignments
 ZCZC W09 40 L03 GitHub related
+ZCZC W10 30 L01 SCELE/Discord related
+ZCZC W10 240 L09 Weekly Assignments
+ZCZC W10 120 L05 studying
+ZCZC W10 20 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 10 L05 QUIZ
+ZCZC W10 300 L09 Weekly Assignments
+ZCZC W10 100 L05 studying
+ZCZC W10 240 L09 Weekly Assignments
+ZCZC W10 40 L05 studying
+ZCZC W10 240 L09 Weekly Assignments
+ZCZC W10 30 L05 studying
+ZCZC W10 40 L03 GitHub related
+ZCZC W10 10 L01 SCELE/Discord related
+ZCZC W10 20 L09 Weekly Assignments
+ZCZC W10 40 L03 GitHub related
